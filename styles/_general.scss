@@ -1,0 +1,23 @@
+@use "fonts";
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+}
+
+//Color
+$mainColor: #000000;
+$title:#000000;
+$additionalTitleAndData:#7B7B7B;
+$paragraph:#565656;
+
+//Fonts
+$fontMainTitle: 'RedHatDisplay-SemiBold',
+sans-serif;
+$fontHeading: 'RedHatDisplay-Regular',
+sans-serif;
+$fontParagraphName: 'RedHatDisplay-Medium',
+sans-serif;
+
+$fontSubTitleParagraph: 'Lato-Regular',
+sans-serif;
