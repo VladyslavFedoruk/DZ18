@@ -229,7 +229,7 @@ button {
 }
 @media screen and (max-width: 768px) {
   .post-second {
-    display: block;
+    display: flex;
   }
 }
 .post-second .post-second-text {
